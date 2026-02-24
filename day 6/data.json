@@ -1,0 +1,49 @@
+{
+  "tamilActors": [
+    {
+      "id": 1,
+      "name": "Vijay",
+      "born": "1974-06-22",
+      "nickname": "Thalapathy",
+      "debutFilm": "Naalaiya Theerpu",
+      "notableFilms": ["Ghilli", "Thuppakki", "Master"],
+      "knownFor": ["Action", "Dance", "Mass roles"]
+    },
+    {
+      "id": 2,
+      "name": "Ajith Kumar",
+      "born": "1971-05-01",
+      "nickname": "Thala",
+      "debutFilm": "Amaravathi",
+      "notableFilms": ["Mankatha", "GBU", "Vedalam"],
+      "knownFor": ["Stylish roles", "Action", "Bike racing"]
+    },
+    {
+      "id": 3,
+      "name": "Rajinikanth",
+      "born": "1950-12-12",
+      "nickname": "Superstar",
+      "debutFilm": "Apoorva Raagangal",
+      "notableFilms": ["Baasha", "Sivaji", "Enthiran"],
+      "knownFor": ["Style", "Screen presence", "Mass appeal"]
+    },
+    {
+      "id": 4,
+      "name": "Suriya",
+      "born": "1975-07-23",
+      "nickname": "Nadippin Nayagan",
+      "debutFilm": "Nerukku Ner",
+      "notableFilms": ["Ghajini", "Soorarai Pottru", "Jai Bhim"],
+      "knownFor": ["Versatile acting", "Emotional roles", "Social themes"]
+    },
+    {
+      "id": 5,
+      "name": "Dhanush",
+      "born": "1983-07-28",
+      "nickname": "D",
+      "debutFilm": "Thulluvadho Ilamai",
+      "notableFilms": ["Aadukalam", "VIP", "Asuran"],
+      "knownFor": ["Natural acting", "Dance", "Rural roles"]
+    }
+  ]
+}
